@@ -1,0 +1,12 @@
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.AssemblyReference.cache
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete

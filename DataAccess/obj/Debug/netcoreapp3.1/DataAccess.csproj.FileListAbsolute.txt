@@ -1,0 +1,14 @@
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\yusuf2\source\repos\RentACarProject\DataAccess\bin\Debug\netcoreapp3.1\Core.pdb
